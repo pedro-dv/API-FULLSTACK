@@ -1,6 +1,5 @@
 # 📌 CRUD de Usuários (API + Front-End)
 
-![Tela do sistema](./assets/Screenshot2025-03-31at19-04-11VIteReact.png)
 
 ![Screenshot 2025-03-31 at 19-04-11 Vite React](https://github.com/user-attachments/assets/6dd3698d-9313-41f3-887b-d151e9adf37e)
 
