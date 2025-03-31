@@ -1,5 +1,8 @@
 # 📌 CRUD de Usuários (API + Front-End)
 
+![Tela do sistema](./assets/Screenshot2025-03-31at19-04-11VIteReact.png)
+
+
 Este é um projeto full-stack simples que permite **cadastrar, listar, editar e excluir usuários**. A aplicação consiste em uma **API REST** desenvolvida com **Node.js** e um **front-end** em **React.js**, consumindo a API.
 
 ---
