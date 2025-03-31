@@ -2,6 +2,7 @@
 
 ![Tela do sistema](./assets/Screenshot2025-03-31at19-04-11VIteReact.png)
 
+![Screenshot 2025-03-31 at 19-04-11 Vite React](https://github.com/user-attachments/assets/6dd3698d-9313-41f3-887b-d151e9adf37e)
 
 Este é um projeto full-stack simples que permite **cadastrar, listar, editar e excluir usuários**. A aplicação consiste em uma **API REST** desenvolvida com **Node.js** e um **front-end** em **React.js**, consumindo a API.
 
